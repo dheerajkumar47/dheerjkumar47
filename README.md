@@ -1,5 +1,7 @@
+[![MasterHead](https://camo.githubusercontent.com/1f034ebfc52e5fdcc097e7b3c6c9100e1fd606f5a99af8ea35f1d3a936bbfdfa/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)]
 <h1 align="center">Hi 👋, I'm Dheeraj kumar</h1>
 <h3 align="center">A junior frontend developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajkumar47" alt="dheerajkumar47" /></a> </p>
 
